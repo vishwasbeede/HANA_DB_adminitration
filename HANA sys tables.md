@@ -43,6 +43,8 @@ TABLE NAMES GIVGEN BELOW:
 
 .M_BACKUP_CATALOG_FILES --- Overview of backup catalo9g with source and destinatio0n information
 
+.M_BACKUP_PROGRESS --- Info, related to recent complete data backup
+
 .M_SERVICE_REPLICATION ---  Provides status of system replication adn log shipping information.
 
 .INVALID_COMMECT_ATTEMPTS --- Provides information related to last invalid connect to DB by user
