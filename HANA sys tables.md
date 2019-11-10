@@ -57,3 +57,5 @@ Syntax to create audit policy
 CREATE AUDIT POLICY <policy_name> AUDITING <audit_status> <audit_actions> LEVEL <audit_level> <opt_audit_trail_type>
 
 M_CUSTOMIZABLE_FUNCTIONALITIES
+
+Analyze Memory Leaks M_HEAP_MEMORY
