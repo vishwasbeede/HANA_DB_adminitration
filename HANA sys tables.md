@@ -56,3 +56,4 @@ SELECT * FROM AUDIT_ACTIONS ORDER BY action_group, action_name;.
 Syntax to create audit policy
 CREATE AUDIT POLICY <policy_name> AUDITING <audit_status> <audit_actions> LEVEL <audit_level> <opt_audit_trail_type>
 
+M_CUSTOMIZABLE_FUNCTIONALITIES
